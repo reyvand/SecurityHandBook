@@ -9,4 +9,4 @@ a. _Network_
    * [_Netcat_](network/netcat.md)
 2. _Web Apps_
    * [_SQL Injection_](webapps/sqlinjection.md)
-   * [_Local File Inclusion_]
+   * [_Local File Inclusion_](webapps/lfi.md)
